@@ -1,0 +1,11 @@
+================================================================================
+Euclid: 
+  - Greek Mathematician that lived Around 300 BC.
+  - Lived in Alexandria (Which was post-Macedonian at the time).
+  Contributions
+    ◻ Euclidean Algorithm.
+    ◻ Infinitude of Prime Numbers.
+    ◻ Fundamental Theorem of Arithmetic.
+    ◻ Euclidean Geometry.
+  Ouvre
+    ◻ Elements. a 13-book series compiling the entirety of Greek mathematical knowledge at the time.
