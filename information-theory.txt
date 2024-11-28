@@ -1,0 +1,14 @@
+
+Error-correcting codes: Hamming, Reed-Solomon, LDPC.
+
+================================================================================
+Timeline
+
+Entropy: measures the amount of information produced on average for each event or symbol from a source. it is also measured in bits.
+  H(X) = - Σ [P(x) * log2(P(x))] or yet H(X) = Σ [P(x) * log2(1/P(x))] where that X is a random variable
+  if we run the experiment infinite times, we know that the minimum theoretical number of bits necessary to transmit the information.
+Information Content: quantifies the "surprise" of a specific event or message. The surprise decreases logarithmically.
+  - If an event is highly likely, it carries less information. If it’s unlikely, it carries more information.
+  - if I(x)=1 and the log is base 2, we can say that we are 1 bit surprised.
+  I(x) = log2(1/P(x)) or yet I(x) = -log2(P(x))
+  aka: Shannon Information, Surprisal.
